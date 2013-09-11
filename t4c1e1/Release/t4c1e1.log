@@ -1,0 +1,29 @@
+﻿Build started 2/17/2011 5:25:54 PM.
+Project "C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TC1012\t4c1e1\t4c1e1.vcxproj" on node 2 (build target(s)).
+PrepareForBuild:
+  Creating directory "C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TC1012\Release\".
+InitializeBuildStatus:
+  Creating "Release\t4c1e1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Release\t4c1e1.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+  stdafx.cpp
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\t4c1e1.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Libro.cpp t4c1e1.cpp
+  Libro.cpp
+  t4c1e1.cpp
+Link:
+  C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TC1012\Release\t4c1e1.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\t4c1e1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TC1012\Release\t4c1e1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TC1012\Release\t4c1e1.lib" /MACHINE:X86 Release\Libro.obj
+  Release\stdafx.obj
+  Release\t4c1e1.obj
+  Generating code
+  Finished generating code
+  t4c1e1.vcxproj -> C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TC1012\Release\t4c1e1.exe
+Manifest:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TC1012\Release\t4c1e1.exe;#1" /manifest Release\t4c1e1.exe.intermediate.manifest
+FinalizeBuildStatus:
+  Deleting file "Release\t4c1e1.unsuccessfulbuild".
+  Touching "Release\t4c1e1.lastbuildstate".
+Done Building Project "C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\TC1012\t4c1e1\t4c1e1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.24
